@@ -21,7 +21,7 @@ In order to calibrate the pupil's location, **multi-state activation functions**
   
 ![activation](img/activation.PNG)  
   
-Click image below for demo video (or click [here](https://youtu.be/_9XTW2mqdjo))
+Click image below for demo video (or click [here](https://youtu.be/_9XTW2mqdjo))  
 [![Video_Thumbnail](img/logo_light.png)](https://youtu.be/_9XTW2mqdjo)
   
 ## Challenges I ran into
